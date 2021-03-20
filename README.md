@@ -12,7 +12,7 @@ Take a look at the production code as well as the tests.
 Project is created with:
 * Java: 11
 * Spring Boot: 2.1.2
-* Other used: Rest Assured, H2 db, flyway
+* Other technologies used: Rest Assured, H2 db, flyway
 	
 ## Setup
 To run this project clone it and run using maven wrapper.
